@@ -1,7 +1,7 @@
 # SoldierAndDices-Risk
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
+# Soldiers and Dices / Risk
 *Helmi CHAABA / Rana YOUSSEF*
 
 *Data analytics, Feb-22, Paris*
