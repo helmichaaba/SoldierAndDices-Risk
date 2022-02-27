@@ -37,5 +37,5 @@ In order to organise our project, we used Jira.
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
 [Repository](https://github.com/helmichaaba/SoldierAndDices-Risk)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Slides](https://docs.google.com/presentation/d/1jE1HeZ2H53gSZzqgD3rgtEbHuhoIHwRT/edit?usp=sharing&ouid=117210236453134236419&rtpof=true&sd=true)  
+[Jira](https://dafeb.atlassian.net/jira/software/projects/G5/boards/2)  
