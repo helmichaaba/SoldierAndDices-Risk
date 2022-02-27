@@ -14,7 +14,8 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about the game you chose to build and why.
+The project on which we are working is a class project on which we have to code a game using Python, in order to evaluate our understanding. 
+The game was chosen by chance, it is about soldiers and dices.
 
 ## Rules
 To play the game, 2 persons are needed, each player has 6 dices. 
@@ -26,12 +27,11 @@ Exception of six: if the die rolls a six, that should not be counted to the tota
 Ending the Game: When a player has no dice left to roll, the game automatically ends. The winner is the player with the highest total score (add up the scores from each round).
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+In order to well manage our project, we started our work on Jira, each person of the group knows his role.
+First of all we tried to acquire more knowledge about the game and its rules, then we started by preparing the flowchart to have a better view on what is needed step-by-step.
 
 ## Organization
 In order to organise our project, we used Jira.
-
-What does your repository look like? Explain your folder and file structure.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
